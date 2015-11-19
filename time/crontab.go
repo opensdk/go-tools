@@ -2,7 +2,7 @@ package time
 
 import (
 	"errors"
-	"github.com/sdvdxl/go-tools/collections"
+	"github.com/opensdk/gotools/collections"
 	"reflect"
 	"strconv"
 	"strings"
